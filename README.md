@@ -1,4 +1,4 @@
-# pythonOOP
+# Python Object-Oriented Programming Training
 * [General info](#general-info)
 * [Technologies](#technologies)
 
